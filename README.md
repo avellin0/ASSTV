@@ -1,15 +1,16 @@
-ASSTV - Assistente Virtual
-ASSTV é um assistente virtual que realiza buscas no Google baseadas no que você diz. Ele foi criado para facilitar a obtenção de informações de forma rápida e eficiente.
+# ASSTV - Assistente Virtual
+## ASSTV é um assistente virtual que realiza buscas no Google baseadas no que você diz. Ele foi criado para facilitar a obtenção de informações de forma rápida e eficiente.
 
-Índice
-Descrição
-Instalação
-Como Usar
-Funcionalidades
-Contribuição
-Licença
-Contato
-Descrição
+-- Índice
+* Descrição
+* Instalação
+* Como Usar
+* Funcionalidades
+* Contribuição
+* Licença
+* Contato
+
+-- Descrição
 ASSTV é um assistente virtual que entende comandos de voz e realiza buscas no Google, retornando os resultados mais relevantes. O objetivo é proporcionar uma experiência de busca mais natural e intuitiva, sem a necessidade de digitar.
 
 Instalação
@@ -19,7 +20,7 @@ Clone o repositório:
 
 bash
 Copy code
-git clone https://github.com/seu-usuario/ASSTV.git
+
 Navegue até o diretório do projeto:
 
 bash
