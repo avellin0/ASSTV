@@ -1,7 +1,7 @@
 # ASSTV - Assistente Virtual
-## ASSTV é um assistente virtual que realiza buscas no Google baseadas no que você diz. Ele foi criado para facilitar a obtenção de informações de forma rápida e eficiente.
+### ASSTV é um assistente virtual que realiza buscas no Google baseadas no que você diz. Ele foi criado para facilitar a obtenção de informações de forma rápida e eficiente.
 
--- Índice
+-- Índice -- 
 * Descrição
 * Instalação
 * Como Usar
@@ -10,10 +10,10 @@
 * Licença
 * Contato
 
--- Descrição
+-- Descrição -- 
 ASSTV é um assistente virtual que entende comandos de voz e realiza buscas no Google, retornando os resultados mais relevantes. O objetivo é proporcionar uma experiência de busca mais natural e intuitiva, sem a necessidade de digitar.
 
-Instalação
+## Instalação
 Para instalar o ASSTV, siga os passos abaixo:
 
 Clone o repositório:
@@ -23,33 +23,38 @@ Copy code
 
 Navegue até o diretório do projeto:
 
-bash
-Copy code
-cd ASSTV
+bash:
+`cd ASSTV `
+
 Instale as dependências necessárias:
 
-bash
-Copy code
-pip install -r requirements.txt
+bash:
+
+`pip install -r requirements.txt `
+
 Como Usar
+
 Para usar o ASSTV, siga as instruções abaixo:
 
 Inicie o assistente virtual:
 
-bash
-Copy code
-python asstv.py
+bash:
+`npm run dev`
+
 Siga as instruções na tela para dar comandos de voz ao assistente. Por exemplo, você pode dizer:
 
 "Buscar restaurantes perto de mim"
 "Qual é a previsão do tempo para hoje?"
+
 O ASSTV realizará a busca no Google e retornará os resultados mais relevantes.
 
-Funcionalidades
-Reconhecimento de voz: Entende comandos de voz para realizar buscas.
-Busca no Google: Realiza buscas no Google e retorna os principais resultados.
-Respostas rápidas: Proporciona respostas rápidas e precisas para suas perguntas.
+## Funcionalidades:
+* Reconhecimento de voz: Entende comandos de voz para realizar buscas.
+* Busca no Google: Realiza buscas no Google e retorna os principais resultados.
+* Respostas rápidas: Proporciona respostas rápidas e precisas para suas perguntas.
+
 Contribuição
+
 Contribuições são bem-vindas! Se você deseja contribuir com o ASSTV, siga os passos abaixo:
 
 Faça um fork do repositório.
