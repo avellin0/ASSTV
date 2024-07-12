@@ -79,7 +79,7 @@ Abra um Pull Request.
 Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
+Contato:
 Para dúvidas ou sugestões, entre em contato pelo email ploglamador@hotmail.com
 
 
