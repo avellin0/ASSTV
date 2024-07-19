@@ -18,7 +18,7 @@ Para instalar o ASSTV, siga os passos abaixo:
 
 Clone o repositório:
 
-bash
+bash:
 Copy code
 
 Navegue até o diretório do projeto:
