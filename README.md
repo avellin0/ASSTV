@@ -67,7 +67,7 @@ git checkout -b minha-nova-feature
 Commit suas alterações:
 
 bash
-Copy code
+Copy code:
 git commit -m 'Adiciona nova feature'
 Faça o push para a branch:
 
